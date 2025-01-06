@@ -4,4 +4,4 @@ cd ../
 
 java -jar v.war --server.port=9090 (9090可以替换成任意端口)
 
-打开浏览器，访问 localhost:8080
+打开浏览器，访问 localhost:8080或者172.0.0.1:8080
